@@ -1,0 +1,28 @@
+﻿  Graph.cpp
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(106,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(109,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(122,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(123,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(269,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(290,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(297,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(326,32): warning C4244:  аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(327,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(351,32): warning C4244:  аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(352,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(376,34): warning C4244:  аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(376,21): warning C4244:  аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(377,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(422,27): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(454,11): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(455,11): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(459,10): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(460,10): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(464,17): warning C4244:  аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(464,13): warning C4244:  аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(499,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(500,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  Main.cpp
+  Создание кода...
+C:\Users\lukoi\source\repos\Testapp\Graph.cpp(663,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  Testapp.vcxproj -> C:\Users\lukoi\source\repos\Testapp\Debug\Testapp.exe
